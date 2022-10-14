@@ -19,7 +19,7 @@ NIM: 312210326
 
 ![membuat direktori](https://user-images.githubusercontent.com/115516820/195139080-57fa1f2e-edb9-44c7-bdd5-1f2f4c082e44.jpg)
 
-4. Lalu buat file readme menggunakan perintah "echo" lalu gunakan "git add (namafile)" agar terbaca perubahannya
+4. Lalu buat file readme menggunakan perintah "echo" lalu gunakan "git add (namafile)" agar penambahan file README.md nya terbaca
 
 ![TambahkanReadme](https://user-images.githubusercontent.com/115516820/195140303-b496b847-9811-497a-adc8-5e33c3bbc333.jpg)
 
